@@ -1,5 +1,7 @@
 {
     "name": "pradana/starter-php",
+    "description": "starter template php project",
+    "keywords": ["template"],
     "type": "template",
     "license": "MIT",
     "autoload": {
@@ -33,10 +35,5 @@
             "@test:unit",
             "@test:types"
         ]
-    },
-    "config": {
-        "allow-plugins": {
-            "pestphp/pest-plugin": false
-        }
     }
 }
